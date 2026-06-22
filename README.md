@@ -11,7 +11,15 @@
 
 ## 🌐 Socials
 
-[Website](https://puffxhost.com)
+* 🌍 Website: https://puffxhost.com
+* 💼 LinkedIn: https://www.linkedin.com/in/nitin-mehta-b68906339/
+* 📸 Instagram: https://instagram.com/nitinmehta.codes
+* ▶️ YouTube: https://youtube.com/@weblife
+* 💬 WhatsApp: https://wa.me/917354336624
+* 💻 GitHub: https://github.com/puffxhost
+* ✍️ Dev.to: https://dev.to/nitinmehta
+* 📖 Wikipedia: https://wikipedia.puffxhost.com/index.php/Nitin_Mehta
+
 
 ## 💻 Tech Stack
 
