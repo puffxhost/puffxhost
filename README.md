@@ -26,7 +26,7 @@ Building Hosting Infrastructure, WHMCS Solutions & Automation Systems
 [![Website](https://img.shields.io/badge/Website-Puffx%20Host-blue?style=for-the-badge)](https://puffxhost.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin%20Mehta-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nitin-mehta-b68906339/)
 [![Instagram](https://img.shields.io/badge/Instagram-@nitinmehta.codes-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/nitinmehta.codes)
-[![YouTube](https://img.shields.io/badge/YouTube-WebLife-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@weblife)
+[![YouTube](https://img.shields.io/badge/YouTube-WebLife-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@WebLife65)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-7354336624-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/917354336624)
 [![GitHub](https://img.shields.io/badge/GitHub-puffxhost-181717?style=for-the-badge\&logo=github)](https://github.com/puffxhost)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Nitin%20Mehta-000000?style=for-the-badge\&logo=devdotto)](https://dev.to/nitinmehta)
