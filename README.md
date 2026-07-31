@@ -81,18 +81,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=puffxhost&show_icons=true&theme=tokyonight&count_private=true" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puffxhost&layout=compact&theme=tokyonight" alt="top languages"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=puffxhost&theme=tokyonight" alt="streak stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=puffxhost&theme=tokyonight&row=1&margin-w=15" alt="trophies"/>
-</p>
+
 
 ---
 
