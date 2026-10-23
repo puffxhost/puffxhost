@@ -2,31 +2,31 @@
 <h3 align="center">Founder & CEO of Puffx Host 🚀 | Hosting Infrastructure & Automation Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=puffxhost&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/puffxhost?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=puffxhost&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/puffxhost?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 <p align="center">
-  Building Hosting Infrastructure, WHMCS Solutions & Automation Systems for businesses worldwide 🌍
+  Building hosting infrastructure, WHMCS solutions, and automation systems for businesses worldwide 🌍
 </p>
 
 <p align="center">
-  <a href="https://puffxhost.com"><img src="https://img.shields.io/badge/🌐_Visit-Puffx%20Host-0e75b6?style=for-the-badge" alt="Website"/></a>
-  <a href="mailto:contact@puffxhost.com"><img src="https://img.shields.io/badge/✉️_Email-Contact%20Me-D14836?style=for-the-badge" alt="Email"/></a>
-  <a href="https://wa.me/917354336624"><img src="https://img.shields.io/badge/💬_WhatsApp-Chat%20Now-25D366?style=for-the-badge" alt="WhatsApp"/></a>
+  <a href="https://puffxhost.com"><img src="https://img.shields.io/badge/🌐_Visit-Puffx%20Host-0e75b6?style=for-the-badge" alt="Visit Puffx Host website"/></a>
+  <a href="mailto:contact@puffxhost.com"><img src="https://img.shields.io/badge/✉️_Email-Contact%20Me-D14836?style=for-the-badge" alt="Email Nitin Mehta"/></a>
+  <a href="https://wa.me/917354336624"><img src="https://img.shields.io/badge/💬_WhatsApp-Chat%20Now-25D366?style=for-the-badge" alt="Chat on WhatsApp"/></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🏢 Founder & CEO of **[Puffx Host](https://puffxhost.com)** — affordable, reliable hosting solutions
-* 🔭 Currently working on **Hosting & WHMCS Automation Projects**
-* 🌱 Learning **PHP, Laravel, Java & Kotlin**
-* 💬 Ask me about **Hosting, Domains, VPS, WHMCS & APIs**
-* ⚡ Fun fact: I love turning manual hosting processes into fully automated systems
-* 🎯 Passionate about Automation & Scalable Systems
-* 📍 Based in India | Serving clients globally
+- 🏢 Founder & CEO of **[Puffx Host](https://puffxhost.com)** — affordable, reliable hosting solutions
+- 🔭 Currently working on **hosting and WHMCS automation projects**
+- 🌱 Learning **PHP, Laravel, Java, and Kotlin**
+- 💬 Ask me about **hosting, domains, VPS, WHMCS, and APIs**
+- ⚡ I enjoy turning manual hosting processes into automated systems
+- 🎯 Passionate about automation and scalable systems
+- 📍 Based in India | Serving clients globally
 
 ---
 
@@ -34,30 +34,40 @@
 
 | Service | Description |
 |---|---|
-| 🖥️ **Web Hosting** | Shared, Reseller & VPS hosting solutions |
-| ⚙️ **WHMCS Development** | Custom modules, addons & automation for WHMCS |
-| 🔗 **API Integrations** | Connecting hosting panels, payment gateways & billing systems |
-| 🤖 **Automation Systems** | Scripts & tools that eliminate repetitive manual work |
-| 📱 **App Development** | Android apps built with Kotlin/Java |
+| 🖥️ **Web Hosting** | Shared, reseller, and VPS hosting solutions |
+| ⚙️ **WHMCS Development** | Custom modules, addons, and automation for WHMCS |
+| 🔗 **API Integrations** | Connecting hosting panels, payment gateways, and billing systems |
+| 🤖 **Automation Systems** | Scripts and tools that reduce repetitive manual work |
+| 📱 **App Development** | Android apps built with Kotlin and Java |
+
+---
+
+## 🌟 Selected Projects
+
+- 🖼️ **[Offline AI Image Generator](https://github.com/puffxhost/offline-ai-image-generator)** — Create images from text prompts on your computer after the model is downloaded.
+- 🔐 **[WHMCS Client Password Changer](https://github.com/puffxhost/whmcs-client-password-changer)** — Lets clients change their account password from the WHMCS client area.
+- 🧹 **[WHMCS Bulk Client Deleter](https://github.com/puffxhost/whmcs-bulk-client-deleter)** — Helps administrators bulk-delete clients using account filters.
+- 💳 **[Puffx Pay WHMCS Payment Gateway](https://github.com/puffxhost/Puffx-Pay-WHMCS-Payment-Gateway)** — Integrates Puffx Pay with WHMCS for online payments.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://puffxhost.com"><img src="https://img.shields.io/badge/Website-Puffx%20Host-blue?style=for-the-badge" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/nitin-mehta-b68906339/"><img src="https://img.shields.io/badge/LinkedIn-Nitin%20Mehta-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://x.com/nitin_meht1803"><img src="https://img.shields.io/badge/X-nitin__meht1803-000000?style=for-the-badge&logo=x" alt="X / Twitter"/></a>
-  <a href="https://instagram.com/nitinmehta.codes"><img src="https://img.shields.io/badge/Instagram-@nitinmehta.codes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://youtube.com/@WebLife65"><img src="https://img.shields.io/badge/YouTube-WebLife-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://www.facebook.com/share/1M26DdA5Yw/"><img src="https://img.shields.io/badge/Facebook-Nitin%20Mehta-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://t.me/puffxhost1x"><img src="https://img.shields.io/badge/Telegram-puffxhost-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://dev.to/nitinmehta"><img src="https://img.shields.io/badge/Dev.to-Nitin%20Mehta-000000?style=for-the-badge&logo=devdotto" alt="Dev.to"/></a>
-  <a href="https://wa.me/917354336624"><img src="https://img.shields.io/badge/WhatsApp-7354336624-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="https://github.com/puffxhost"><img src="https://img.shields.io/badge/GitHub-puffxhost-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://puffxhost.com"><img src="https://img.shields.io/badge/Website-Puffx%20Host-blue?style=for-the-badge" alt="Puffx Host website"/></a>
+  <a href="https://www.linkedin.com/in/nitin-mehta-b68906339/"><img src="https://img.shields.io/badge/LinkedIn-Nitin%20Mehta-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/></a>
+  <a href="https://x.com/nitin_meht1803"><img src="https://img.shields.io/badge/X-nitin__meht1803-000000?style=for-the-badge&logo=x" alt="X profile"/></a>
+  <a href="https://instagram.com/nitinmehta.codes"><img src="https://img.shields.io/badge/Instagram-@nitinmehta.codes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile"/></a>
+  <a href="https://youtube.com/@WebLife65"><img src="https://img.shields.io/badge/YouTube-WebLife-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"/></a>
+  <a href="https://www.facebook.com/share/1M26DdA5Yw/"><img src="https://img.shields.io/badge/Facebook-Nitin%20Mehta-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile"/></a>
+  <a href="https://t.me/puffxhost1x"><img src="https://img.shields.io/badge/Telegram-puffxhost-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram profile"/></a>
+  <a href="https://dev.to/nitinmehta"><img src="https://img.shields.io/badge/Dev.to-Nitin%20Mehta-000000?style=for-the-badge&logo=devdotto" alt="Dev.to profile"/></a>
+  <a href="https://wa.me/917354336624"><img src="https://img.shields.io/badge/WhatsApp-7354336624-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp contact"/></a>
+  <a href="https://github.com/puffxhost"><img src="https://img.shields.io/badge/GitHub-puffxhost-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
 </p>
 
 ### 🔗 More Links
+
 [Wikipedia Profile](https://wikipedia.puffxhost.com/index.php/Nitin_Mehta) • [Play Console Apps](https://play.google.com/store/apps/dev?id=5625474777021404860) • [Google Maps](https://maps.app.goo.gl/8gYiqFQnSFFxBbFz8) • [Tepnot](https://tepnot.com/share/nitinmehta.codes?tsid=c34cca1a-79ac-4ad2-b76f-7f23bfb805c8)
 
 ---
@@ -81,13 +91,9 @@
 
 ## 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=puffxhost&theme=tokyonight" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=puffxhost&theme=tokyonight" alt="GitHub contribution streak"/>
 </p>
-
-
 
 ---
 
@@ -95,17 +101,17 @@
 
 <p align="center">
   <a href="https://puffxhost.com">
-    <img src="https://img.shields.io/badge/🚀_Puffx_Host-Affordable%20%26%20Reliable%20Hosting-0e75b6?style=for-the-badge" alt="Puffx Host"/>
+    <img src="https://img.shields.io/badge/🚀_Puffx_Host-Affordable%20%26%20Reliable%20Hosting-0e75b6?style=for-the-badge" alt="Puffx Host — affordable and reliable hosting"/>
   </a>
 </p>
 
-> A hosting company focused on delivering affordable, reliable, and automation-driven hosting solutions — Shared Hosting, VPS, Reseller Hosting & WHMCS-based billing systems.
+> A hosting company focused on affordable, reliable, and automation-driven shared hosting, VPS, reseller hosting, and WHMCS billing systems.
 
 ---
 
 ## 🎯 Motto
 
-> Building affordable, reliable and automation-driven hosting solutions for everyone.
+> Building affordable, reliable, and automation-driven hosting solutions for everyone.
 
 <h3 align="center">⭐ Founder of Puffx Host | Software Developer | Entrepreneur ⭐</h3>
 
