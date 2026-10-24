@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nitin Mehta</h1>
-<h3 align="center">Founder & CEO of Puffx Host 🚀 | Hosting Infrastructure & Automation Specialist</h3>
+# Hi 👋, I'm Nitin Mehta
+
+### Founder & CEO of [Puffx Host](https://puffxhost.com) 🚀 | Hosting Infrastructure & Automation Specialist
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=puffxhost&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -12,7 +13,7 @@
 
 <p align="center">
   <a href="https://puffxhost.com"><img src="https://img.shields.io/badge/🌐_Visit-Puffx%20Host-0e75b6?style=for-the-badge" alt="Visit Puffx Host website"/></a>
-  <a href="mailto:contact@puffxhost.com"><img src="https://img.shields.io/badge/✉️_Email-Contact%20Me-D14836?style=for-the-badge" alt="Email Nitin Mehta"/></a>
+  <a href="mailto:support@puffxhost.in"><img src="https://img.shields.io/badge/✉️_Email-support%40puffxhost.in-D14836?style=for-the-badge" alt="Email Puffx Host support"/></a>
   <a href="https://wa.me/917354336624"><img src="https://img.shields.io/badge/💬_WhatsApp-Chat%20Now-25D366?style=for-the-badge" alt="Chat on WhatsApp"/></a>
 </p>
 
@@ -20,12 +21,12 @@
 
 ## 🚀 About Me
 
-- 🏢 Founder & CEO of **[Puffx Host](https://puffxhost.com)** — affordable, reliable hosting solutions
-- 🔭 Currently working on **hosting and WHMCS automation projects**
-- 🌱 Learning **PHP, Laravel, Java, and Kotlin**
-- 💬 Ask me about **hosting, domains, VPS, WHMCS, and APIs**
-- ⚡ I enjoy turning manual hosting processes into automated systems
-- 🎯 Passionate about automation and scalable systems
+- 🏢 Founder & CEO of **[Puffx Host](https://puffxhost.com)** — hosting, infrastructure, and automation
+- 🔭 Building hosting tools, WHMCS modules, payment integrations, and AI projects
+- 🌱 Learning and working with **PHP, Laravel, Java, and Kotlin**
+- 💬 Ask me about **web hosting, domains, VPS, WHMCS, APIs, and automation**
+- ⚡ I enjoy turning repetitive hosting tasks into practical tools
+- 🎯 Interested in reliable systems, useful software, and automation
 - 📍 Based in India | Serving clients globally
 
 ---
@@ -35,18 +36,22 @@
 | Service | Description |
 |---|---|
 | 🖥️ **Web Hosting** | Shared, reseller, and VPS hosting solutions |
-| ⚙️ **WHMCS Development** | Custom modules, addons, and automation for WHMCS |
-| 🔗 **API Integrations** | Connecting hosting panels, payment gateways, and billing systems |
-| 🤖 **Automation Systems** | Scripts and tools that reduce repetitive manual work |
-| 📱 **App Development** | Android apps built with Kotlin and Java |
+| ⚙️ **WHMCS Development** | Custom addons, modules, and billing automation |
+| 🔗 **API Integrations** | Connect hosting panels, payment gateways, and business tools |
+| 🤖 **Automation Systems** | Build tools that reduce repetitive manual work |
+| 📱 **App Development** | Android applications with Java and Kotlin |
+| 🧠 **AI Projects** | Self-hosted AI gateways and local image-generation tools |
 
 ---
 
 ## 🌟 Selected Projects
 
-- 🖼️ **[Offline AI Image Generator](https://github.com/puffxhost/offline-ai-image-generator)** — Create images from text prompts on your computer after the model is downloaded.
-- 🔐 **[WHMCS Client Password Changer](https://github.com/puffxhost/whmcs-client-password-changer)** — Lets clients change their account password from the WHMCS client area.
-- 🧹 **[WHMCS Bulk Client Deleter](https://github.com/puffxhost/whmcs-bulk-client-deleter)** — Helps administrators bulk-delete clients using account filters.
+- 🧠 **[Puffx AI Engine](https://github.com/puffxhost/puffx-ai-engine)** — A self-hosted API gateway that routes chat requests to Ollama or a separately configured OpenAI-compatible inference service.
+- 🖼️ **[Offline AI Image Generator](https://github.com/puffxhost/offline-ai-image-generator)** — Generate images from text prompts on your computer after downloading the model; generation can then run locally.
+- 🔐 **[WHMCS Client Password Changer](https://github.com/puffxhost/whmcs-client-password-changer)** — Lets WHMCS clients change their account password from the client area.
+- 🌙 **[WHMCS Admin Dark Mode](https://github.com/puffxhost/whmcs-admin-darkmode)** — Adds dark-mode controls, appearance settings, and system-theme syncing to the WHMCS admin area.
+- 🧹 **[WHMCS Bulk Client Deleter](https://github.com/puffxhost/whmcs-bulk-client-deleter)** — Helps administrators review and bulk-delete selected client accounts.
+- 📤 **[WHMCS Client Data Export](https://github.com/puffxhost/client-data-export-tool)** — Exports selected client records as JSON or CSV with a review step and explicit data limits.
 - 💳 **[Puffx Pay WHMCS Payment Gateway](https://github.com/puffxhost/Puffx-Pay-WHMCS-Payment-Gateway)** — Integrates Puffx Pay with WHMCS for online payments.
 
 ---
@@ -97,7 +102,7 @@
 
 ---
 
-## ⭐ Featured Project
+## ⭐ Featured Project: Puffx Host
 
 <p align="center">
   <a href="https://puffxhost.com">
@@ -125,17 +130,5 @@ Need help or want to report an issue?
 
 - 🌐 Website: [puffxhost.com/contact](https://puffxhost.com/contact)
 - 📧 Email: [support@puffxhost.in](mailto:support@puffxhost.in)
-- 📞 Call: [+91 8602967573](https://wa.me/918602967573)
+- 📞 Call: [+91 8602967573](tel:+918602967573)
 - 💬 WhatsApp: [+91 7354336624](https://wa.me/917354336624)
-
-## 📜 License
-
-This project’s app code is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details.
-
-## 🙌 Contributing
-
-Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
-
-## ⭐️ Give a Star
-
-If you found this project useful, please consider giving it a star on GitHub to support its development.
