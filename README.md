@@ -118,3 +118,24 @@
 <p align="center">
   <i>Thanks for visiting my profile! Feel free to connect with me on any platform above 🚀</i>
 </p>
+
+## 🛟 Support & Contact
+
+Need help or want to report an issue?
+
+- 🌐 Website: [puffxhost.com/contact](https://puffxhost.com/contact)
+- 📧 Email: [support@puffxhost.in](mailto:support@puffxhost.in)
+- 📞 Call: [+91 8602967573](https://wa.me/918602967573)
+- 💬 WhatsApp: [+91 7354336624](https://wa.me/917354336624)
+
+## 📜 License
+
+This project’s app code is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details. Model weights have separate license terms; see the model license section above.
+
+## 🙌 Contributing
+
+Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
+
+## ⭐️ Give a Star
+
+If you found this project useful, please consider giving it a star on GitHub to support its development.
