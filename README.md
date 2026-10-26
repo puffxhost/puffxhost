@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Mehta</h1>
 
-<h3 align="center">Founder &amp; CEO of <a href="https://puffxhost.com/">Puffx Host</a> 🚀 | Hosting Infrastructure &amp; Automation Specialist</h3>
+<h3 align="center">Founder &amp; CEO at <a href="https://puffxhost.com">Puffx Host</a> 🚀 | WHMCS &amp; Hosting Automation | PHP, Laravel &amp; APIs | Building Practical Hosting Tools in India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=puffxhost&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
