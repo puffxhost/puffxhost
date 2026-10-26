@@ -100,6 +100,16 @@
   <img src="https://streak-stats.demolab.com?user=puffxhost&theme=tokyonight" alt="GitHub contribution streak"/>
 </p>
 
+## 🧪 2024 Contribution Graph Mockup
+
+> **Illustrative mockup only:** the “824 contributions” figure below is fictional and does not represent or change GitHub account activity.
+
+<p align="center">
+  <img src="images/contribution-graph-2024-mockup.svg" alt="Illustrative 2024 GitHub contribution graph mockup showing 824 contributions; not actual account activity" width="100%"/>
+</p>
+
+---
+
 ---
 
 ## ⭐ Featured Project: Puffx Host
