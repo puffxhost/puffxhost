@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nitin Mehta
+<h1 align="center">Hi 👋, I'm Nitin Mehta</h1>
 
 ### Founder & CEO of [Puffx Host](https://puffxhost.com) 🚀 | Hosting Infrastructure & Automation Specialist
 
